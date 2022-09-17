@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    color: darkred;
+}
+body {
+    background-color: antiquewhite;
+}
+div {
+    color: darkred;
+    font-size: 20;
+}
+img {
+    width: 250px;
+    height: 250px;
+}
